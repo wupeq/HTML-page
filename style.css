@@ -1,13 +1,18 @@
 body {
 
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-  background-image: url("zasoby/background_image.jpg");
 
 }
 
-p {
+#warning {
 
   color: red;
   font-size: 12px;
+
+}
+
+#spotify {
+
+  font-weight: bold;
 
 }
